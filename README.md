@@ -1,4 +1,4 @@
-Using a raspberry pi, me (far right in the video) and the rest of my team created a working prototype of a fingerprint scanner intended to replace a key on a car door using the adafruit fingerprint library.
+Using a raspberry pi and the adafruit fingerprint library, me (far right in the video) and the rest of my team created a working prototype of a fingerprint scanner intended to replace a key on a car door using the adafruit fingerprint library.
 ___________________________________________________________________________________________________________
 [BIO-AUTO Final.pptx](https://github.com/camster811/FingerprintScanner/files/13814692/BIO-AUTO.Final.pptx)
 ___________________________________________________________________________________________________________
